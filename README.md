@@ -1,25 +1,24 @@
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h1 style="display: inline-block">👋 Welcome to ArceDevs 👋</h1></summary>
+    <summary><h1 style="display: inline-block">👋 Welcome 👋</h1></summary>
   </ul>
 </div>
 
 <hr />
 
 
+![Banner Centwick](https://github.com/ArceDevs/Images/assets/168607650/fe21a7d3-e348-479c-879e-572ca93f95ae)
+
+
 > Despite the lack of experience, it is essential to persevere with hard work — Me 😊
 
-Things asides, I'm Alonso, just a young sprout in the vast world of coding.
-To sum it up, I’m all about curiosity and hard work. 
+Hello, I'm Alonso, just a young sprout in the vast world of coding.<br>
+To sum it up, I’m all about curiosity and hard work.<br>
 I'm the type of person that prefers to dive into code, mess around, and then figure out how to make the rubish I write into something actually usable and scalable 😂
 
-
 # `<>` Skills `</>`
-Even though, I don't have that much experience I managed to learn a little of mutiple things in order to see why there are so many tools and why should I use them.
-
-
-Also whether it is good or bad, I've worked with JavaScript long enough to hate it, but I still use it. Happends 🤷‍♂️
-
+Even though, I don't have that much experience I managed to learn a little of mutiple things in order to see why there are so many tools and why should I use them.<br>
+Also whether it is good or bad, I've worked with JavaScript long enough to hate it, but I still use it. Happends 🤷‍♂️<br>
 
 _IMPORTANT: The skills presented are ordered by how much I have used/known about them from left to right!_
 
