@@ -16,12 +16,32 @@ Hello, I'm Alonso, just a young sprout in the vast world of coding.<br>
 To sum it up, I’m all about curiosity and hard work.<br>
 I'm the type of person that prefers to dive into code, mess around, and then figure out how to make the rubish I write into something actually usable and scalable 😂
 
+
+# `<>` Present `</>`
+I’m trying to keep up with the latest frontend frameworks while also staying current on the backend side with AI. <br>
+It feels like I'm biting off more than I can chew at times, but there's so much to learn that even with heaps of free time, keeping up seems impossible.
+
+Right now, I've got three tabs open that I do in my spare time:
+<ul>
+	<li>
+		I’m the lead developer for the <a href="https://www.gtdebarcelona.es/" target="_blank">GT de Barcelona</a> which is a Warhammer 40K tournament set for September 2024.
+	</li>
+	<li>I’m tackling two Udemy courses: one on Python and another on ASP.NET.</li>
+	<li>
+		I’m diving deep into JavaScript, my daily go-to language, and trying to stay on top of global programming news.<br>
+		Thankfully, <a href="https://www.youtube.com/@ThePrimeTimeagen" target="_blank">ThePrimeagen</a>'s content is helping with that if you are interested on those topics 😁
+	</li>
+</ul>
+
+
 # `<>` Skills `</>`
 Even though, I don't have that much experience I managed to learn a little of mutiple things in order to see why there are so many tools and why should I use them.<br>
 Also whether it is good or bad, I've worked with JavaScript long enough to hate it, but I still use it. Happends 🤷‍♂️<br>
 
-_IMPORTANT: The skills presented are ordered by how much I have used/known about them from left to right!_
-
+_🔥 IMPORTANT 🔥_ <br>
+_The skills presented are ordered by how much I have used/known about them from left to right!_ <br>
+_Also, there are other tools or languages I have used but I'm not going to add because I haven't done anything significant with them_ <br>
+_For example, I have written some scripts with bash, but nothing to far away from a measely Hello World and I did set up some servers on Linux while I was studying, but again it isn't something I can rely on currently as knowlege to apply into real proyects_ <br>
 
 ## Languages
 ![HTML](https://img.shields.io/badge/-HTML-343942?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
