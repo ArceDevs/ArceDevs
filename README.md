@@ -41,7 +41,7 @@ Also whether it is good or bad, I've worked with JavaScript long enough to hate 
 _🔥 IMPORTANT 🔥_ <br>
 _The skills presented are ordered by how much I have used/known about them from left to right!_ <br>
 _Also, there are other tools or languages I have used but I'm not going to add because I haven't done anything significant with them_ <br>
-_For example, I have written some scripts with bash, but nothing to far away from a measely Hello World and I did set up some servers on Linux while I was studying, but again it isn't something I can rely on currently as knowlege to apply into real proyects_ <br>
+_For example, I have written some scripts with bash, but nothing to far away from a measely Hello World and I did set up some servers on Linux while I was studying, but again it isn't something I can rely on currently as knowlege to apply into real projects_ <br>
 
 ## Languages
 ![HTML](https://img.shields.io/badge/-HTML-343942?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
