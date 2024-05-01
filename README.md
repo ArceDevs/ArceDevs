@@ -15,8 +15,10 @@ I'm the type of person that prefers to dive into code, mess around, and then fig
 
 
 # `<>` Skills `</>`
-Even though, I don't have that much experience I managed to learn a little of mutiple things in order to see why there are that many tools and why should I use them and
-whether it is good or bad, I've worked in JavaScript long enough to hate, but I still use it. Happends 🤷‍♂️
+Even though, I don't have that much experience I managed to learn a little of mutiple things in order to see why there are so many tools and why should I use them.
+
+
+Also whether it is good or bad, I've worked with JavaScript long enough to hate it, but I still use it. Happends 🤷‍♂️
 
 
 _IMPORTANT: The skills presented are ordered by how much I have used/known about them from left to right!_
