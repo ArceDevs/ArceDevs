@@ -7,7 +7,7 @@
 <hr />
 
 
-![Banner Centwick](https://github.com/ArceDevs/Images/assets/168607650/fe21a7d3-e348-479c-879e-572ca93f95ae)
+![Banner Centwick]([https://github.com/ArceDevs/Images/assets/168607650/fe21a7d3-e348-479c-879e-572ca93f95ae](https://ik.imagekit.io/rjgp6gpidx/Banner%20Centwick.jpg?updatedAt=1715328548211))
 
 
 > Despite the lack of experience, it is essential to persevere with hard work — Me 😊
@@ -26,7 +26,7 @@ Right now, I've got three tabs open that I do in my spare time:
 	<li>
 		I’m the lead developer for the <a href="https://www.gtdebarcelona.es/" target="_blank">GT de Barcelona</a> which is a Warhammer 40K tournament set for September 2024.
 	</li>
-	<li>I’m tackling two Udemy courses: one on Python and another on ASP.NET.</li>
+	<li>I’m tackling two Udemy bootcamps: one on Python and another on ASP.NET.</li>
 	<li>
 		I’m diving deep into JavaScript, my daily go-to language, and trying to stay on top of global programming news.<br>
 		Thankfully, <a href="https://www.youtube.com/@ThePrimeTimeagen" target="_blank">ThePrimeagen</a>'s content is helping with that if you are interested on those topics 😁
