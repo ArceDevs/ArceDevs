@@ -7,7 +7,7 @@
 <hr />
 
 
-![Banner Centwick]([https://github.com/ArceDevs/Images/assets/168607650/fe21a7d3-e348-479c-879e-572ca93f95ae](https://ik.imagekit.io/rjgp6gpidx/Banner%20Centwick.jpg?updatedAt=1715328548211))
+![Banner Centwick](https://ik.imagekit.io/rjgp6gpidx/Banner%20Centwick.jpg)
 
 
 > Despite the lack of experience, it is essential to persevere with hard work — Me 😊
